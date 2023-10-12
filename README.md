@@ -1,3 +1,3 @@
 # CODSOFT
-This is a repository that has all the files related to my internship that I am doing at codsoft 
+This is a repository that has all the files related to my 'Artificial Intelligence' internship that I am doing at CodSoft 
 Author-Rishika B R
